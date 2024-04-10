@@ -1,0 +1,7 @@
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\obj\Debug\SU Course Rep Training Software.csproj.AssemblyReference.cache
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\obj\Debug\SU Course Rep Training Software.csproj.CoreCompileInputs.cache
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\bin\Debug\SU Course Rep Training Software.exe.config
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\bin\Debug\SU Course Rep Training Software.exe
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\bin\Debug\SU Course Rep Training Software.pdb
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\obj\Debug\SU Course Rep Training Software.exe
+C:\Users\Iain Simpson\Desktop\UCLan SU\Admin Role\SU Course Rep Training Software\SU Course Rep Training Software\obj\Debug\SU Course Rep Training Software.pdb
