@@ -8,8 +8,8 @@ The following report looks into 3 different areas:
 
 For this report, I have investigated the systems at the following institutions:
 - [University of Chester](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-chester)
-- [University of Cumbria](https://github.com/IainSimpsonCode/UCLanSU/edit/main/MC-Research.md#university-of-cumbria)
-- University of Manchester
+- [University of Cumbria](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-cumbria)
+- [University of Manchester](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-manchester)
 
 ## Keywords
 - Mitigating Circumstances (MC)
