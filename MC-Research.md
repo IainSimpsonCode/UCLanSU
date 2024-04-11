@@ -1,5 +1,5 @@
 # Mitigating Circumstances
-The following is research into the mitigating circumstances (MC) process across different institutions across the sector. 
+The following is research into the mitigating circumstances (MC) process across different institutions across the sector. <br>
 The following report looks into 3 different areas:
 - What systems are in place for students to apply for mitigating circumstances and/or extentions
 - The transparency of the systems in place
@@ -38,6 +38,16 @@ Depsite this, it is clear that the system in place at Chester is more focused on
 - More options available to students
 - Clearer wording/naming
 
+```mermaid
+flowchart TD
+    A[Student] --> B[Need more time?];
+    A --> C[Submitted late?];
+    B --> D{Long term?};
+    D -- No --> E[Extention];
+    D -- Yes --> F[Deferral];
+    C --> G[Waive the late work penalty];    
+```
+
 ### University of Cumbria
 Mitigating Circumstances at Cumbria are defined as Extenuating Circumstances (EC). These are clearly definined in Appendix 3e of the University of Cumbria Academic Procedures and Processes. [^3]
 Students may also apply for extentions as defined in Appendix 3c. [^4]
@@ -66,7 +76,16 @@ University of Manchester provides mitigating circumstances and extentions to stu
 - [A Basic Guide to Mitigating Circumstances](https://documents.manchester.ac.uk/display.aspx?DocID=23886) [^15]
 
 #### Extentions
-Extentions are usually offered for up to 5 working days, without the requirement for evidence. Longer extentions can be granted at the schools discretion. [^12]
+Extentions are usually offered for up to 5 working days, without the requirement for evidence. Longer extentions can be granted at the schools discretion. [^12] By September 2024, the university will have produced a standard form for all students to use to request extentions. [^16] In section 3.6 of the Procedure for Extentions, the university clearly describes what situations would be valid reason for extentions, and which situations would be invalid. <br>
+Section 3.8 of the Procedure for Extentions details who considers the request. The wording is as follows: [^11] <br>
+>
+> "Requests for extensions should be considered initially by PS staff under the School’s agreed parameters. In the event of any specific requests that require academic input/decisions, PS colleagues should refer the requests to the relevant academic colleagues. Schools are responsible for confirming both the agreed parameters and the academic colleagues who would be involved in the decision-making process" <br>
+>
+This wording makes it unnecessarily unclear as to who approves each extention and who students should be submitting thier request to, but I have interpreted it as follows: <br>
+University of Manchester uses PS as an abbreviation for Professional Services. [^17] As such, students fill in a form and submit it to professional services. The application is then reviewed centrally by them, unless the request is specific and requires academic input, in which case the school selects academics from the subject area to advise. 
+
+#### Mitigating Circumstances
+
 
 ## References
 [^1]: https://www.chester.ac.uk/student-life/student-support/inclusion/faqs/
@@ -84,3 +103,5 @@ Extentions are usually offered for up to 5 working days, without the requirement
 [^13]: https://documents.manchester.ac.uk/display.aspx?DocID=23163
 [^14]: https://documents.manchester.ac.uk/display.aspx?DocID=4271
 [^15]: https://documents.manchester.ac.uk/display.aspx?DocID=23886
+[^16]: https://documents.manchester.ac.uk/display.aspx?DocID=68792; Footnote 2
+[^17]: https://www.staffnet.manchester.ac.uk/ps/
