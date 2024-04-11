@@ -7,8 +7,8 @@ The following report looks into 3 different areas:
 <br>
 
 For this report, I have investigated the systems at the following institutions:
-- University of Chester
-- University of Cumbria
+- [University of Chester](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-chester)
+- [University of Cumbria](https://github.com/IainSimpsonCode/UCLanSU/edit/main/MC-Research.md#university-of-cumbria)
 - University of Manchester
 
 ## Keywords
