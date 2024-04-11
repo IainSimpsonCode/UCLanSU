@@ -4,6 +4,11 @@ The following report looks into 3 different areas:
 - What systems are in place for students to apply for mitigating circumstances and/or extentions
 - The transparency of the systems in place
 - The ease-of-use for students
+<br>
+For this report, I have investigated the systems at the following institutions:
+- University of Chester
+- University of Cumbria
+- University of Manchester
 
 ## Keywords
 - Mitigating Circumstances (MC)
@@ -67,6 +72,19 @@ The one major downside, is that the process is less student-friendly. To underst
 - Clearer process
 - More streamlined
 - Well documented
+
+```mermaid
+flowchart TD
+    A[Student] --> B[Need more time?];
+    A --> C[Need to retake?];
+    B --> D[Extention];
+    D --> E[< 2 Weeks];
+    D --> F[> 2 Weeks];
+    E --> G[Without evidence];
+    F --> H[With evidence];
+    C --> I[Extenuating Circumstances];
+    I --> H;
+```
 
 ### University of Manchester
 University of Manchester provides mitigating circumstances and extentions to students. The rules for these can be found in the following documents:
