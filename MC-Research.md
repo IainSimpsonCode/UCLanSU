@@ -5,6 +5,7 @@ The following report looks into 3 different areas:
 - The transparency of the systems in place
 - The ease-of-use for students
 <br>
+
 For this report, I have investigated the systems at the following institutions:
 - University of Chester
 - University of Cumbria
@@ -103,7 +104,9 @@ This wording makes it unnecessarily unclear as to who approves each extention an
 University of Manchester uses PS as an abbreviation for Professional Services. [^17] As such, students fill in a form and submit it to professional services. The application is then reviewed centrally by them, unless the request is specific and requires academic input, in which case the school selects academics from the subject area to advise. 
 
 #### Mitigating Circumstances
+If you have any issue that affects you for more than 7 days, and affects and assignment or exam, you can apply for mitigating circumstances with evidence. Mitigating Circumstances are reviewed by a panel, and, if approved, the panel can grant an extention, a resit or excluding a mark from an average. [^18]
 
+#### Best Elements
 
 ## References
 [^1]: https://www.chester.ac.uk/student-life/student-support/inclusion/faqs/
@@ -123,3 +126,4 @@ University of Manchester uses PS as an abbreviation for Professional Services. [
 [^15]: https://documents.manchester.ac.uk/display.aspx?DocID=23886
 [^16]: https://documents.manchester.ac.uk/display.aspx?DocID=68792; Footnote 2
 [^17]: https://www.staffnet.manchester.ac.uk/ps/
+[^18]: https://www.studentsupport.manchester.ac.uk/study-support/mitigating-circumstances/
