@@ -106,7 +106,22 @@ University of Manchester uses PS as an abbreviation for Professional Services. [
 #### Mitigating Circumstances
 If you have any issue that affects you for more than 7 days, and affects and assignment or exam, you can apply for mitigating circumstances with evidence. Mitigating Circumstances are reviewed by a panel, and, if approved, the panel can grant an extention, a resit or excluding a mark from an average. [^18]
 
+#### Evaluation
+The system setup by Manchester is clear and simple, however has some unnecessary barriers. For example, while students can get extentions and MC's, the forms they need to complete are not readily available and the forms/rules vary at the discretion of the school. They are working on a unified extention form that will apply to all schools, however, until this is complete, the system is splintered and students cant easily find the information they need.
+
 #### Best Elements
+- Clear communication to students about the process regardless of the fact the forms required are not clearly communicated
+- Extentions without evidence are allowed
+
+```mermaid
+flowchart TD
+    A[Student] --> B[Need more time?];
+    B --> C[< 7 Days];
+    B --> D[> 7 Days];
+    C --> E[Extention without evidence];
+    D --> G[Extention with evidence];
+    D --> F[Mitigating Circumstances]
+```
 
 ## References
 [^1]: https://www.chester.ac.uk/student-life/student-support/inclusion/faqs/
