@@ -10,6 +10,7 @@ For this report, I have investigated the systems at the following institutions:
 - [University of Chester](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-chester)
 - [University of Cumbria](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-cumbria)
 - [University of Manchester](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#university-of-manchester)
+- [Edge Hill University](https://github.com/IainSimpsonCode/UCLanSU/blob/main/MC-Research.md#edge-hill-university)
 
 ## Keywords
 - Mitigating Circumstances (MC)
@@ -124,11 +125,15 @@ flowchart TD
 ```
 
 ### Edge Hill University
-Edge Hill has recently changed thier system after receieving advice from OIA. Currently, they offer extensions and personal circumstances (mitigating circumstances). They have made thier options clear to students by providing a document explaining thier options with a flowchart[^19]. Information on thier personal circumstances policy can also be found on Appenix 7 of thier academic regulations[^20], the Students' Union website[^21] and on the Personal Circumstances form[^22].
+Edge Hill has recently changed thier system after receieving advice from OIA. Currently, they offer extensions and personal circumstances (mitigating circumstances). They have made thier options clear to students by providing a document explaining thier options with a flowchart[^19]. Information on thier personal circumstances policy can also be found on Appenix 7 of thier academic regulations[^20], the Students' Union website[^21] and on the Personal Circumstances form[^22]. Further information on extensions can also be found on the Edge Hill website[^23].
 
 #### Extensions
-Appendix 7 of the academic regulations[^20] mentions that personal circumstances are for situations not fully addressed through the 'Extension Scheme'. This is the only time and extension 'scheme' is mentioned. Extensions are only mentioned once more in the support document[^19], however, this document only states that extensions exists and that you should email your department administrator or programme tutor for more information. <br>
-The document states that extensios are usually for up to 2 weeks, however this does not say whether evidence is required or not.
+As with other universities, extensions are handled at the module/course level as opposed to school-wide. To find information on how to get an extention, students are directed to speak to thier department administrator or porgramme tutor[^19]. Extentions are handled by each individual programme, and each programme nominates 1 tutor who will oversee all extension requests for the programme[^23]. Extensions are usually granted for up to 2 weeks; you are required to supply evidence with every extension application[^23].
+
+#### Personal Circumstances
+Personal circumstances, formerly known as exceptional mitigating circumstances, can be submitted by students if they are affected by something and a short-term extension won't help. As stated in section 6 of appenidx 7, personal circumstances can be submitted no later than 10 days after the deadline. If granted, applicants may recieve a further extension, an additional examination sitting without penalty, an alternate form of assessment, a retake of the module, or an interruption of study or reapeat year[^20].
+Personal Circumstances can be applied to via an online form[^22] where you can enter your details along with the required evidence. You must upload evidence and a 'factual statement' on your reasons for personal circumstances. The regulations excplicitly state that personal circumstances will only be considered directly from the student and not from someone else on thier behalf.
+
 
 ## References
 [^1]: https://www.chester.ac.uk/student-life/student-support/inclusion/faqs/
@@ -153,3 +158,4 @@ The document states that extensios are usually for up to 2 weeks, however this d
 [^20]: https://www.edgehill.ac.uk/wp-content/uploads/documents/Regulations_Appendix-7-Procedures-for-the-Submission-of-Personal-Circumstances-23-24-v1.pdf
 [^21]: https://www.edgehillsu.org.uk/advice/academic/emc
 [^22]: https://www.edgehill.ac.uk/departments/support/registry/assessments-and-awards/personal-circumstances-form/
+[^23]: https://www.edgehill.ac.uk/departments/support/registry/assessments-and-awards/#emc
