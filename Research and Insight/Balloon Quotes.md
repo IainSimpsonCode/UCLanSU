@@ -12,7 +12,7 @@ I have asked for quotes for a couple different items:
 
 ## Kelly
 ### Delivery
-No delivery cost
+£50 delivery on orders under £500. Free delivery on orders over £500
 ### Light-Up Letters
 - £35 per letter or 2 for £60
 - "GR Awards" £240
